@@ -12,7 +12,7 @@
 - 📫 How to reach me **anirudh012009@gmail.com**
 
 
- I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+ I love connecting with different people so if you want to say hi ,you can message me is discord qwe123pro#9289 and I'll be happy to meet you ! :)
  
  
  check out my protfolio https://qwe123coder.github.io/qwe123pro.io/                                          

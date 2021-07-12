@@ -30,4 +30,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwe123coder&" alt="qwe123coder" /></p>
 
 
+check out <a href="https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA">Eddie Jaoude!</a> github star of the year !!
 

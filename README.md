@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Anirudh Anup</h1>
 <h3 align="center">A passionate  developer from India</h3>
 
@@ -12,10 +13,7 @@
 
 
  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
- check out my protfolio https://qwe123coder.github.io/qwe123pro.io/
-
-
-
+ check out my protfolio https://qwe123coder.github.io/qwe123pro.io/                                          
 
 
 <h3 align="left">Languages and Tools:</h3>

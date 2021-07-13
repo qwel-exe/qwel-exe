@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Anirudh Anup</h1>
 <h3 align="center">A passionate 13 year old developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qwe123coder&label=Profile%20views&color=0e75b6&style=flat" alt="qwe123coder" /> </p>
-
 
 - 🌱 I’m currently learning **react**
 
@@ -12,10 +10,12 @@
 - 📫 How to reach me **anirudh012009@gmail.com**
 
 
- I love connecting with different people so if you want to say hi ,you can message me is discord qwe123pro#9289 and I'll be happy to meet you ! :)
+ -I love connecting with different people so if you want to say hi ,you can message me is discord qwe123pro#9289 and I'll be happy to meet you ! :)
+  
  
+ -check out my protfolio https://qwe123coder.github.io/qwe123pro.io/            
  
- check out my protfolio https://qwe123coder.github.io/qwe123pro.io/                                          
+ - check out <a href="https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA">Eddie Jaoude!</a> github star of the year !!
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,5 +32,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwe123coder&" alt="qwe123coder" /></p>
 
 
-check out <a href="https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA">Eddie Jaoude!</a> github star of the year !!
 

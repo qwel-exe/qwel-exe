@@ -24,12 +24,12 @@
   </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 ***
-  
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwe123coder&show_icons=true&locale=en&layout=compact" alt="qwe123coder" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qwe123coder&show_icons=true&locale=en" alt="qwe123coder" /></p>
- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwe123coder&" alt="qwe123coder" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwe123coder&show_icons=true&theme=cobalt)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qwe123coder&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+
+
+
 
 
 

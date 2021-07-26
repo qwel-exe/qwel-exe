@@ -1,38 +1,16 @@
-# This is a basic workflow to help you get started with Actions
-
-name: CI
-
-# Controls when the workflow will run
+name: Metrics
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-
-  # Allows you to run this workflow manually from the Actions tab
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+  push: {branches: ["master", "main"]}
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  github-metrics:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    - name: Metrics embed
-      uses: lowlighter/metrics@v3.10
-    - uses: lowlighter/metrics@latest
-      with:
-        # ... other options
-        plugin_reactions: yes
-        plugin_reactions_limit: 200                 # Compute reactions over last 200 issue comments
-        plugin_reactions_limit_issues: 100          # Compute reactions over laste 100 issues/pull requests opened
-        plugin_reactions_days: 14                   # Compute reactions on issue comments posted less than 14 days ago
-        plugin_reactions_details: count, percentage # Display reactions count and percentage
-        plugin_reactions_ignored: bot               # Ignore "bot" user
-  
-
-
+      # See action.yml for all options
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}

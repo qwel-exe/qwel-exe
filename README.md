@@ -35,20 +35,9 @@
 ![Metrics](https://metrics.lecoq.io/qwe123coder?template=classic&languages=1&isocalendar=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FCalcutta)
 
 </div>
-<div style='display: inline-block;' align="left">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwe123coder&show_icons=true&theme=cobalt)                                                                             
-                          
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=qwe123coder&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=qwe123coder&theme=tokyonight" />
+</p>
 
-</div>
-
-<div  style='display: flex,display: inline-block;' align="right">
-
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qwe123coder&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-
-
-
-
-</div>

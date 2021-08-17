@@ -3,7 +3,7 @@
 <h3 align="center">A passionate 13 year old developer from India</h3>
 
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **open scource projecse**
 

@@ -40,16 +40,9 @@
 
 <br/>
 <br/>
-<div align="center">
-
-
-
-
-
-
-
+<div align="left">
+ <h3 align="left">Some Cool Github Stats:</h3> 
  <img src="github-metrics.svg" />
-
 </div>
 
 <p align="center">

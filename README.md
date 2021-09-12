@@ -53,5 +53,8 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=qwe123coder&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=qwe123coder&theme=tokyonight" />
+  
+ 
 </p>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=qwe123coder&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)

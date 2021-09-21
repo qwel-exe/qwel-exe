@@ -57,4 +57,4 @@
  
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=qwe123coder&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anirudh's github activity graph](https://activity-graph.herokuapp.com/graph?username=qwe123coder&theme=github)]

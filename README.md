@@ -1,4 +1,5 @@
-<img align="center" src="https://user-images.githubusercontent.com/91655303/143830016-0839df41-440e-4e7b-aca5-ad31ff6d9544.png" width="100%">
+<img align="center" src="https://user-images.githubusercontent.com/72848513/143842727-1c67c692-c6a3-4277-9142-096714b0fada.png" width="100%">
+
 
 <h1 align="center">Hi 👋, I'm Anirudh Anup</h1>
 <h3 align="center">A passionate 13 year old developer from India</h3>

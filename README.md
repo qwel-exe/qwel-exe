@@ -60,4 +60,4 @@
  
 </p>
 
-![Anirudh's github activity graph](https://activity-graph.herokuapp.com/graph?username=qwe123coder&theme=github)
+![Anirudh's github activity graph](https://activity-graph.herokuapp.com/graph?username=qwel-exe&theme=github)

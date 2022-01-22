@@ -54,8 +54,8 @@
 </div>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=qwe123coder&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=qwe123coder&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=qwel-exe&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=qwel-exe&theme=tokyonight" />
   
  
 </p>

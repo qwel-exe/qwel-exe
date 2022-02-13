@@ -1,4 +1,5 @@
-<img align="center" src="https://user-images.githubusercontent.com/72848513/143842727-1c67c692-c6a3-4277-9142-096714b0fada.png" width="100%">
+<img align="center" src="https://user-images.githubusercontent.com/72848513/153762439-9d54c511-a5a3-4eaa-a277-a1fc261e4afe.png" width="100%">
+
 
 
 <h1 align="center">Hi 👋, I'm Anirudh Anup</h1>

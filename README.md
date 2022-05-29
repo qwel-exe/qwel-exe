@@ -62,3 +62,5 @@
 </p>
 
 ![Anirudh's github activity graph](https://activity-graph.herokuapp.com/graph?username=qwel-exe&theme=github)
+
+[![Discord Presence ](https://lanyard.cnrad.dev/api/809805000905326603)](https://discord.com/users/809805000905326603 )

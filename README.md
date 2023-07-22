@@ -1,5 +1,3 @@
-<img align="center" src="https://user-images.githubusercontent.com/72848513/174485771-cd53cce0-0fcb-4fe5-9a8a-88290069b365.png" width="100%">
-
 
 
 <h1 align="center">Hi 👋, I'm Anirudh Anupkumar</h1>

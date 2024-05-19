@@ -15,6 +15,7 @@
 <br/>
 <br/>
 <br/>
+<!---
 <div align="left">
 <h3 align="left">Languages and Tools:</h3> 
 <br/>
@@ -38,12 +39,10 @@
 </div>
 <br/>
 <br/>
-
-***
-
-
 <br/>
 <br/>
+-->
+
 <div align="center">
  <h3>Some Cool Github Stats:</h3> 
  <img src="github-metrics.svg" />
